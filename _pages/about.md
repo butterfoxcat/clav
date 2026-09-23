@@ -19,6 +19,13 @@ selected_papers: true # 하단에 selected=true 논문 자동 노출 여부
 social: true # _config.yml의 소셜/이메일 아이콘 자동 표시
 ---
 
+<style>
+  .profile img {
+    max-width: 160px !important;
+    height: auto !important;
+  }
+</style>
+
 # **CLAV**
 ### Computation Lab for Advanced Vehicles
 
