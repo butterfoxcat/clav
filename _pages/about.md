@@ -30,10 +30,8 @@ Our group investigates multi-scale, multi-phase, and multi-physics dynamics, sys
 
 ---
 
-<div class="row justify-content-center">
-    <div class="col-sm-10 mt-3 mb-4">
-        {% include figure.liquid path="assets/img/clav1.jpg" class="img-fluid rounded z-depth-1" alt="CLAV Research Overview" zoomable=true %}
-    </div>
+<div class="text-center mt-3 mb-4">
+    <img src="{{ '/assets/img/clav1.jpg' | relative_url }}" class="img-fluid rounded shadow" alt="CLAV Research Overview" style="max-width: 90%; height: auto;">
 </div>
 
 ## **Research Pillars**
