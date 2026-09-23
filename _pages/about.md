@@ -30,6 +30,12 @@ Our group investigates multi-scale, multi-phase, and multi-physics dynamics, sys
 
 ---
 
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mb-4">
+        {% include figure.liquid path="assets/img/clav1.jpg" class="img-fluid rounded z-depth-1" alt="CLAV Research Overview" zoomable=true %}
+    </div>
+</div>
+
 ## **Research Pillars**
 
 <div class="row mt-3">
