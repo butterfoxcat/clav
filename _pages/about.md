@@ -7,7 +7,7 @@ subtitle: <a href="https://suwon.ac.kr/">Department of Mechanical Engineering</a
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # 프로필 사진을 둥글게 하려면 true로 변경
+  image_circular: true # 프로필 사진을 둥글게 하려면 true로 변경
   more_info: >
     <p>Room 204, Engineering Bldg 4</p>
     <p>The University of Suwon</p>
