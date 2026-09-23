@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # 프로필 사진을 둥글게 하려면 true로 변경
-  style: "max-width: 180px; width: 100%; height: auto;"
   more_info: >
     <p>Room 204, Engineering Bldg 4</p>
     <p>The University of Suwon</p>
