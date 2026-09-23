@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 204, Engineering Bldg 4</p>
     <p>The University of Suwon</p>
-    <p>17 Wauan-gil, Bongdam-eup, Hwaseong-si</p>
+    <p>17 Wauan-gil, Hwaseong-si</p>
     <p>Gyeonggi-do, Republic of Korea</p>
 
 news: true # 하단에 _news 게시물 자동 노출 여부
