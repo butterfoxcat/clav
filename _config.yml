@@ -18,7 +18,8 @@ icon: ⚛️
 apple_touch_icon:
 
 url: "https://butterfoxcat.github.io"
-baseurl: "/clav"
+url: "https://clav.suwon.ac.kr"
+baseurl: ""
 last_updated: false
 impressum_path:
 back_to_top: true
