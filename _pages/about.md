@@ -16,7 +16,7 @@ profile:
 
 news: true # 하단에 _news 게시물 자동 노출 여부
 selected_papers: true # 하단에 selected=true 논문 자동 노출 여부
-social: false # _config.yml의 소셜/이메일 아이콘 자동 표시
+social: true # _config.yml의 소셜/이메일 아이콘 자동 표시
 ---
 
 <style>
