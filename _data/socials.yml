@@ -7,10 +7,10 @@ orcid: 0000-0001-9684-9292
 github_username: butterfoxcat
 scholar_userid: butterfox
 
-custom_socials:
-  - title: Professor Profile
-    url: https://www.suwon.ac.kr/mainHp/prointro/detail.html?eno=1265201
-    icon: fas fa-university
+#custom_socials:
+#  - title: Professor Profile
+#    url: https://www.suwon.ac.kr/mainHp/prointro/detail.html?eno=1265201
+#    icon: fas fa-university
 
 # 쓰지 않거나 값이 없는 항목은 반드시 #으로 주석 처리
 #scholar_userid: butterfox
