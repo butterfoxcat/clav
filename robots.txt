@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://butterfoxcat.github.io/clav/sitemap.xml
+Sitemap: https://clav.suwon.ac.kr/sitemap.xml
