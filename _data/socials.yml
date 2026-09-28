@@ -3,9 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: slee@suwon.ac.kr
-orcid: 0000-0001-9684-9292
+orcid: "0000-0001-9684-9292"
 github_username: butterfoxcat
-scholar_userid: butterfox
 
 #custom_socials:
 #  - title: Professor Profile
