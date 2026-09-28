@@ -17,7 +17,7 @@ lang: en
 icon: ⚛️
 apple_touch_icon:
 
-url: "https://butterfoxcat.github.io"
+#url: "https://butterfoxcat.github.io"
 url: "https://clav.suwon.ac.kr"
 baseurl: ""
 last_updated: false
